@@ -1,2 +1,2 @@
 #!/bin/bash
-chod -R g+x,o+x
+chod -R ugo+X
