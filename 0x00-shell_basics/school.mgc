@@ -1,3 +1,1 @@
-0 string HOLBERTON Holberton data
-!:mime Holberton
-
+ln -s /bin/ls ls
